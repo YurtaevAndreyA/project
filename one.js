@@ -15,3 +15,8 @@ function sum(x, y) {
 }
 
 // создал функцию для сложения двух чисел
+
+
+function dif(x, y) {
+		return x - y;
+}
