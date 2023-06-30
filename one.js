@@ -20,3 +20,5 @@ function sum(x, y) {
 function dif(x, y) {
 		return x - y;
 }
+
+// у меня новый комментарий
